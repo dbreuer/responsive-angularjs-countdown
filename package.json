@@ -2,10 +2,6 @@
   "name": "anita",
   "version": "0.0.0",
   "dependencies": {},
-  "repository": {},
-    "dependencies": {
-        "harp": "*"
-    },
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-autoprefixer": "^2.0.0",
